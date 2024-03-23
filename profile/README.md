@@ -1,6 +1,5 @@
 # DevUnionHQ
 
-[![Founded 2024](https://img.shields.io/badge/Founded-2024-blue)](https://devunion.org) 
 
 **A collaborative community for skilled developers crafting exceptional open-source software.**
 
