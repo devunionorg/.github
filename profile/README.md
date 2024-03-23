@@ -1,6 +1,7 @@
 # DevUnionHQ
 
-[![Build Status](https://github.com/DevUnionOrg/your-repo/workflows/CI/badge.svg)](https://github.com/DevUnionOrg/your-repo/actions) [![Codecov](https://codecov.io/gh/DevUnionOrg/your-repo/branch/main/graph/badge.svg)](https://codecov.io/gh/DevUnionOrg/your-repo)
+[![Founded 2024](https://img.shields.io/badge/Founded-2024-blue)](https://devunion.org) 
+[![Codecov](https://codecov.io/gh/DevUnionOrg/your-repo/branch/main/graph/badge.svg)](https://codecov.io/gh/DevUnionOrg/your-repo)
 
 **A collaborative community for skilled developers crafting exceptional open-source software.**
 
