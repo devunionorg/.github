@@ -11,7 +11,7 @@ DevUnion is a community where developers of all levels come together to collabor
 
 * **How to Contribute:** Visit our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines on how to get involved with our projects. 
 * **Code of Conduct:**  We are committed to fostering a respectful and inclusive community. Please review our [Code of Conduct](CODE_OF_CONDUCT.md).
-* **Communication:** Join our Discord server for real-time discussion and collaboration: [`DevUnionHQ`](https://discord.gg/8CxMJxFwGK)
+* **Communication:** Join our Discord server for real-time discussion and collaboration: [`DevUnion`](https://discord.gg/8CxMJxFwGK)
 
 ## License
 
