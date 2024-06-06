@@ -1,4 +1,4 @@
-# DevUnionHQ
+# DevUnion
 
 
 **A collaborative community for skilled developers crafting exceptional open-source software.**
