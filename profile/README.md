@@ -59,17 +59,8 @@ Below are some of our key initiatives. We invite you to explore and contribute:
 
 ---
 
-## Community Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devunionorg&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="DevUnion Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devunionorg&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" width="30%">
-</div>
-
----
-
 ## Leadership
-DevUnion is led by Abdel Illah Belaoudj, who serves as the primary organizer, overseeing community initiatives, project development, and member engagement.
+DevUnion is led by [Abdel Illah Belaoudj](https://github.com/abdelillahbel), who serves as the primary organizer, overseeing community initiatives, project development, and member engagement.
 
 ## Licensing
 
