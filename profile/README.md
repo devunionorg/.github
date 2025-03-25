@@ -35,7 +35,7 @@ Joining DevUnion is straightforward. Here’s how to become part of our communit
 </div>
 
 ---
-
+<!--
 ## Featured Projects
 
 Below are some of our key initiatives. We invite you to explore and contribute:
@@ -47,7 +47,7 @@ Below are some of our key initiatives. We invite you to explore and contribute:
 | [Project Gamma](https://github.com/devunion/project-gamma) | An open-source learning platform | [![Planning](https://img.shields.io/badge/Status-Planning-blue)](https://github.com/devunion/project-gamma) |
 
 *Note: Replace placeholder links with actual repository URLs.*
-
+-->
 ---
 
 ## Why DevUnion?
@@ -62,11 +62,14 @@ Below are some of our key initiatives. We invite you to explore and contribute:
 ## Community Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devunion&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="DevUnion Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devunion&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api?username=devunionorg&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="DevUnion Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devunionorg&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" width="30%">
 </div>
 
 ---
+
+## Leadership
+DevUnion is led by Abdel Illah Belaoudj, who serves as the primary organizer, overseeing community initiatives, project development, and member engagement.
 
 ## Licensing
 
